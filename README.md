@@ -13,6 +13,10 @@ Hasil latihan 5
 Hasil praktikum
 ![alt text](https://github.com/Lunggita29/AmeliaLunggita_PHP_MODUL6_COOKIE/blob/master/praktikum.png)
 
+![alt text](https://github.com/Lunggita29/AmeliaLunggita_PHP_MODUL6_COOKIE/blob/master/latprak.jpeg)
+![alt text](https://github.com/Lunggita29/AmeliaLunggita_PHP_MODUL6_COOKIE/blob/master/latprak%20(2).jpeg)
+![alt text](https://github.com/Lunggita29/AmeliaLunggita_PHP_MODUL6_COOKIE/blob/master/latprak%20(3).jpeg)
+
 1.
 Cookies:
 1. Cookies disimpan di sisi klien
